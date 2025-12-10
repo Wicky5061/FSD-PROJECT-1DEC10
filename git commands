@@ -1,0 +1,24 @@
+
+Popular or most used GIT commands: 
+
+git init – to initialize a git repository 
+
+/*for first time develop have to setup username and email*/ 
+
+git config --global user.name “lullucoder” 
+
+git config –global.email “prashantcoc678@gmail.com” 
+
+git add . to add all file sin that folder 
+
+git commit –m “first commit” to stage the changes locally 
+
+git branch –M main to create branch main 
+
+git remote add origin  https://github.com/lullucoder/mindcure.git 
+
+git push –u origin main  
+
+git checkout 
+
+git log – it will track thee project history along with Author commit messages and time
